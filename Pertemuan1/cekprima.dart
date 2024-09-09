@@ -23,7 +23,7 @@ void printhasil(bool hasil){
     if(hasil == true){
         print("Bilangan prima");
     }else if(hasil==false){
-        print("Bilangan bukan prima");
+        print("Bilangan komposit");
     }
 }
 
